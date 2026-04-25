@@ -1,7 +1,7 @@
-##About Project
+**##About Project**
     This project is about manual testing of Spotify.
     It checks whether the main features of the app are working properly.
-##Application
+**##Application**
     App: Spotify
     Type: Web / Mobile
     Testing: Manual Testing
@@ -11,16 +11,16 @@
     Play Music
     Create Playlist
     Like Songs
- ##Files Included
+ **##Files Included**
     Test Cases
     Bug Report
     Test Summary
     Screenshots
- ##Sample Bugs
+ **##Sample Bugs**
     Song lyrics have some spelling mistakes
- ##Tools Used
+ **##Tools Used**
     Excel
     Browser (Chrome)
     Mobile Device
- ##Author
+ **##Author**
     DEEPA D
